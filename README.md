@@ -18,7 +18,7 @@ El caso analizado se basa en un álbum de estampas del Mundial FIFA 2026, consid
 El repositorio incluye los siguientes archivos principales:
 
 - `Mundial.ipynb`: notebook con las simulaciones, cálculos, tablas, gráficas y análisis del laboratorio.
-- `main.tex`: documento en LaTeX utilizado para generar el informe formal.
+- `Laboratorio7T`: documento en LaTeX utilizado para generar el informe formal.
 - `histograma_etapa1.png`: histograma del número de sobres necesarios para completar el álbum.
 - `grafica_etapa2.png`: gráfica de probabilidad de completar el álbum según la cantidad de sobres comprados.
 - `README.md`: descripción general del repositorio.
